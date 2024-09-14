@@ -4,7 +4,7 @@ Hi, I'm Abisha Dhakal, a passionate IT student at Westcliff University, currentl
 ## My Field of Interest
 👨‍💻 Cyber Security and Web Development
 ## What I’m doing 
-📚 I am currently exproling different fields of IT
+📚 I am currently exploring different fields of IT
 ## Connect with Me
 📧 Email: dhakalabisha99@gmail.com
 💼 LinkedIn:https://www.linkedin.com/in/abisha-dhakal-83872a314/
