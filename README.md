@@ -1,6 +1,8 @@
 # Welcome to My GitHub! 👋
 ## About Me
 Hi, I'm Abisha Dhakal, a passionate IT student at Westcliff University, currently diving into the world of coding, gaming, and tech innovation. I'm learning various technologies Like web development and cybersecurity, while also exploring gaming and graphic designing.
+## My Field of Interest
+👨‍💻 Cyber Security and Web Development
 ## What I’m doing 
 📚 I am currently exproling different fields of IT
 ## Connect with Me
